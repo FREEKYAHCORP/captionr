@@ -7,7 +7,7 @@ requests
 tqdm
 open_clip_torch
 git+https://github.com/huggingface/transformers.git
-git+https://github.com/theovercomer8/BLIP
+git+https://github.com/pipinstallyp/BLIP
 salesforce-lavis
 git+https://git@github.com/seatgeek/thefuzz.git@0.19.0#egg=thefuzz
 python-Levenshtein 
