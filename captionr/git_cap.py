@@ -2,7 +2,7 @@ from PIL import Image
 from transformers import AutoProcessor, AutoModelForCausalLM
 
 class Git:
-    model_name = "microsoft/git-large-r-textcaps"
+    model_name = "microsoft/git-base-textcaps"
     device = None
     max_length:int
 
